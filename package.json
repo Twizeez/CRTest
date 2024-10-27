@@ -1,0 +1,12 @@
+{
+    "name": "cloud-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for Cloud Run deployment",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Muhammad Hafi",
+    "license": "ISC"
+  }
+  
